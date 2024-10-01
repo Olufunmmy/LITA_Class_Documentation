@@ -1,7 +1,7 @@
 # LITA_Class_Documentation
 ## Project Title: E commerce Sale Analysis
 ---
-[Data Visualisation](#data-visualidsation)
+[Data Visualisation](#data-visualisation)
 #### Background
 Starch is the major polysaccharide made of amylose and amylopectin. These polymers differ in structures as well as in physical properties. Starch is the primary storage polysaccharide in plants and an important constituent of the human in plants and an important constituent of the human diet. Starch can be converted into various useful products by the application of enzyme (Souza et al., 2010). 
 
