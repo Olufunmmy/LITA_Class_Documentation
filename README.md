@@ -10,3 +10,9 @@ Starch is the major polysaccharide made of amylose and amylopectin. These polyme
     3. Visualisation
 -  SQL - Structured Query Language for Querying of Data
 -  Github for Portfolio Building
+
+#### Data Cleaning and Preparation
+In the initial phase of the data cleaning and preparation, we perform the following action; 
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and Formatting
