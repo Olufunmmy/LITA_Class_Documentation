@@ -33,6 +33,9 @@ WHERE CONDITION = TRUE
 #### Data Visualisation
 
 ![20200822_165945~2_1.jpg](https://github.com/Olufunmmy/LITA_Class_Documentation/blob/main/20200822_165945~2_1.jpg)
+
+
+
 😆
 💻
 : computer
